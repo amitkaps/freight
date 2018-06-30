@@ -81,7 +81,7 @@ class App extends Component {
 
   render() {
     return (
-      <div style={{position: 'absolute', width: '100%', height: '100%', minHeight: '70vh'}}>
+      <div style={{position: 'relative', width: '100%', height: '100%', minHeight: '95vh'}}>
         <AutoSizer>
           {({height, width}) => (
             <KeplerGl

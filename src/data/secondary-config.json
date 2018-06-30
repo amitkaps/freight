@@ -34,7 +34,7 @@
               "lng": "destlon",
               "altitude": null
             },
-            "isVisible": true,
+            "isVisible": false,
             "visConfig": {
               "radius": 5,
               "fixedRadius": false,
@@ -83,7 +83,7 @@
               "lat": "sourcelat",
               "lng": "sourcelon"
             },
-            "isVisible": false,
+            "isVisible": true,
             "visConfig": {
               "opacity": 0.23,
               "clusterRadius": 40,
